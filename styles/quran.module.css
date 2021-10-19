@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "LPMQ";
+  src: url("/fonts/LPMQ.ttf");
+}
+
+.text-quran {
+    font-family: 'LPMQ';
+    line-height: 230%;
+}
